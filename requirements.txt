@@ -1,1 +1,1 @@
-streamlitpandasnumpyplotlypyarrowpydeckkeplerglpyprojmatplotlib
+streamlitpandasnumpyplotlymatplotlib
